@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://zhukevichs:153945530@cluster0-vbpwv.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://zhukevichs:153945530@cluster0-vbpwv.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
